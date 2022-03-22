@@ -1,5 +1,5 @@
-movie-app-server/node_modules
-movie-app-server/nodemon.js
-movie-app-client/node_modules
-movie-app-client/build
-movie-app-client/.env
+Movies_Server/node_modules
+Movies_Server/nodemon.js
+Movies_Client/node_modules
+Movies_Client/build
+Movies_Client/.env
