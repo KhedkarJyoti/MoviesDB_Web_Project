@@ -1,0 +1,27 @@
+.app_header{
+	background-color: #000;
+	color: #fff;
+	/*font-size: 2vw;*/
+	/*font-weight: 600;*/
+	text-align: left;
+	padding: 15px 30px;
+}
+.back_to_prev{
+	cursor: pointer;
+}
+.back_to_prev:hover{
+	/*color: rgb(255, 255, 255);*/
+	/*margin-right: 15px;*/
+	/*border: 1px solid #fff;*/
+	/*padding: 3px;*/
+	box-shadow: 1px 0px 8px 2px #fff;
+	/*margin-top: 15px;*/
+}
+
+/* Media Queries */
+
+@media (min-width: 0px){
+	.back_to_prev: hover{	
+		box-shadow: 1px 0px 8px 2px #fff;
+	}
+}

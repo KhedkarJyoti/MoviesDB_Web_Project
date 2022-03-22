@@ -1,0 +1,30 @@
+.movie_title{
+	/*padding: 15px;*/
+	/*font-size: 2vw;*/
+	font-weight: 600;
+	color: #fff;
+}
+.detailed_movie_img img{
+	width: 100%;
+}
+.movie_details{
+	background-color: #F0FFFF;
+}
+
+.loader_wrapper {
+  display: table-cell;
+  height: 100vh;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.loader_div {
+  display: inline-block;
+  /*width: 200px; height: 200px;*/
+}
+.loader_img{
+	display: block ruby;
+}
+.loading_text{
+	padding: 15px;
+}
