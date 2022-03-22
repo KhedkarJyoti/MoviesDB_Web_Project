@@ -20,8 +20,8 @@
 
 /* Media Queries */
 
-@media (min-width: 0px){
-	.back_to_prev: hover{	
+@media screen and (min-width: 100px){
+	.back_to_prev:hover{	
 		box-shadow: 1px 0px 8px 2px #fff;
 	}
 }

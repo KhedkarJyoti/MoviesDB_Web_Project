@@ -34,12 +34,12 @@ const MovieDetails = (props) =>{
     	}
     	
     	getSingleMovie();
-	}, []); 
+	}, [params.id]); 
 
 
 	return(
 		<>
-		{console.log("movie => ",movie)}
+		
 			<Header heading={"Movie Details"} showBackBtn={true} />
 			{loading
 				?
