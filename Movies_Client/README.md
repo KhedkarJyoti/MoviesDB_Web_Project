@@ -3,29 +3,30 @@
 
 1. Clone this repository.
 
-# Clone repository
 $ git clone 
+
 
 2. Install dependencies via NPM or Yarn
 
-# Install dependencies via npm
+i) Install dependencies via npm
 $ npm install
 
-# Install dependencies via yarn
+ii) Install dependencies via yarn
 $ yarn install
+
 
 3. Set .env file 
 
-# create .env file in movie-app-client
-# paste this in .env file => REACT_APP_BASE_URL=http://localhost:3067
+- create .env file in movie-app-client
+- paste this in .env file => REACT_APP_BASE_URL=http://localhost:3067
+
 
 4. Run project 
 
-# execute command to run project
 $ npm start
 
 
-============= Code Management or Folder Sructure ============
+5. Code Management or Folder Sructure
 
 src _____
 		||
@@ -34,11 +35,11 @@ src _____
 					||
 
 			Component_Name Folder ___
-			(for ex : Movies)			||
-										||
+			(for ex : Movies)		||
+									||
 										
-						Component_js_file 	- Ex: Movies.js
-						Component_css_file 	- Ex: Movies.css
+					Component_js_file 	- Ex: Movies.js
+					Component_css_file 	- Ex: Movies.css
 
 
 
