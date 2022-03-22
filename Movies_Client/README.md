@@ -28,7 +28,7 @@ $ npm start
 
 5. Code Management or Folder Sructure
 
-src _____
+src ____
 		||
 
 	Components ____
