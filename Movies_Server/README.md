@@ -28,16 +28,15 @@ $ npm start
 
 5. Code Management or Folder Sructure
 
-Apis_____
-		||
-
-	Component_Name Folder ___
-	(for ex : Movies)		||
-							||
-								
-				Controller_file - Ex: Controller.js
-				Model_file 		- Ex: Model.js
-				Routes_file 	- Ex: Routes.js
+Apis
+|
+|----- Component_Name Folder 
+		(for ex : Movies)	
+				|
+				|
+				|------- Controller_file - Ex: Controller.js
+				|------- Model_file - Ex: Model.js
+				|------- Routes_file - Ex: Routes.js
 
 
 

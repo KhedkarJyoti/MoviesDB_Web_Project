@@ -28,18 +28,18 @@ $ npm start
 
 5. Code Management or Folder Sructure
 
-src ____
-		||
-
-	Components ____
-					||
-
-			Component_Name Folder ___
-			(for ex : Movies)		||
-									||
-										
-					Component_js_file 	- Ex: Movies.js
-					Component_css_file 	- Ex: Movies.css
+src 
+|
+---- Components 
+		|			
+		|
+		---- Component_Name Folder 
+			 (for ex : Movies)		
+					|
+					|------ Component_js_file - Ex: Movies.js
+					|------ Component_css_file - Ex: Movies.css				
+					
+					
 
 
 
